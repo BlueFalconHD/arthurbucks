@@ -4,7 +4,15 @@
     color: white;
 }
 
-.arthurbucks
+.arthurbucks-image {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
 
 body {
     background-color: darkslategray;
